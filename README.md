@@ -1,2 +1,3 @@
-### Algorithms-DataStructures-course
-Problems I solved on Algorithms and Data Structures course at University of Wroclaw
+Algorithms-DataStructures-course
+===
+Problems I solved during Algorithms and Data Structures course at University of Wroclaw
