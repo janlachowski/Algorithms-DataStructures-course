@@ -1,6 +1,5 @@
 # A. Sidewalk Construction
 
-**Course**: Algorithms and Data Structures  
 **Problem type**: Programming assignment involving greedy search or path construction.
 
 ## Description
